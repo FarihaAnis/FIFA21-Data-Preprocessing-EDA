@@ -39,5 +39,4 @@ The outcome of this project was a well-organized FIFA21 dataset, optimized for f
 
 **Quantifiable Results:** </br>
 - Enhanced Data Integrity: Distribution plots confirmed most players peak between ages 25 and 30, crucial for refining predictive models.
-- Key Player Attributes Identified: Correlation heatmaps showed strong links between 'stamina' and 'dribbling' with overall ratings, guiding tactical decisions.
 - Improved Stakeholder Understanding: Visualizations of player height outliers clarified data trends, enhancing scouting decisions.
