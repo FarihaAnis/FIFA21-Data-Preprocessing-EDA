@@ -8,7 +8,7 @@
 
 ---
 **Situation:** </br>
-The project involves analyzing the FIFA21 dataset to gain insights into the characteristics and performance of football players. The data cleaning and exploratory data analysis (EDA) process aims to identify key patterns and trends, as well as address any issues within the dataset, such as missing values and inconsistencies. This analysis is crucial for understanding the dataset's structure and preparing it for more advanced machine learning tasks.
+The FIFA21 dataset, sourced from Kaggle, provides comprehensive player information from the FIFA series soccer simulation video game released by Electronic Arts in October 2020. With data on 18,980 players and 77 attributes including player ID, age, nationality, club affiliation, and performance metrics, this dataset serves as a valuable resource for in-depth analysis. In this project, I will conduct an Exploratory Data Analysis (EDA) focusing on various data types, address issues like missing data and outliers, and perform necessary data preprocessing steps to unlock valuable insights within the virtual soccer world of FIFA21.
 
 **Task:** 
 * Data Pre-processing: Responsible for cleaning and organizing the FIFA21 dataset, including removing unnecessary columns and preparing the data for analysis.
